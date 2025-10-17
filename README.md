@@ -9,3 +9,4 @@ Menyambungkan Intelij dengan SQL
 ## penjelasan alur
 
 ## Dokumentasi
+https://github.com/user-attachments/assets/7937839b-d3ca-42a4-81bf-d16271e49ba1
